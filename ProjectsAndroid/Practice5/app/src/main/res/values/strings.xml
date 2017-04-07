@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice5</string>
+    <string name="thank_you">Thank you for chhosing our bleend tea. How do you want to serve it ?</string>
+    <string name="temp">Temperature :</string>
+    <string name="on">Hot</string>
+    <string name="off">Cold</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+</resources>

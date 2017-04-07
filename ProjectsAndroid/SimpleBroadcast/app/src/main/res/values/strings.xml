@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleBroadcast</string>
+    <string name="button_send">Send a message !</string>
+</resources>

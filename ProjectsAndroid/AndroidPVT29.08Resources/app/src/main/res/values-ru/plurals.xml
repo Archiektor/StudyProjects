@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_counter">
+        <item quantity="one">%d пользователь</item>
+        <item quantity="few">%d пользователя</item>
+        <item quantity="many">%d пользователей</item>
+        <item quantity="other">%d accounts</item>
+    </plurals>
+</resources>

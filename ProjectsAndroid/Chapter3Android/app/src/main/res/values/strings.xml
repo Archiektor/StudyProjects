@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chapter3Android</string>
+    <string name="button">Send Message</string>
+    <string name="editText"></string>
+    <string name="chooser">Send message ...</string>
+</resources>

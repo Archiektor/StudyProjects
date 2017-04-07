@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "569733351315",
+    "firebase_url": "https://test-af860.firebaseio.com",
+    "project_id": "test-af860",
+    "storage_bucket": "test-af860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569733351315:android:afc776d86aa2dbdc",
+        "android_client_info": {
+          "package_name": "com.example.nikki.sensors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569733351315-ipo3k5kgvpo42fjbil6s81bau6qu1nf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJwobi3p_EB3BhUjkLgDa5uVcQcvLBso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

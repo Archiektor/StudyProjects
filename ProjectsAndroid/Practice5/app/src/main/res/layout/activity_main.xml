@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hfad.practice5.MainActivity">
+
+    <TextView
+        android:id="@+id/thank"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dp"
+        android:paddingTop="12dp"
+        android:text="@string/thank_you"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/thank"
+        android:layout_below="@+id/thank"
+        android:paddingTop="16dp"
+        android:paddingLeft="12dp"
+        android:text="@string/temp"
+        android:textSize="16sp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/thank"
+        android:layout_marginLeft="12dp"
+        android:layout_marginStart="20dp"
+        android:layout_toEndOf="@+id/temp"
+        android:layout_toRightOf="@+id/temp"
+        android:textOff="@string/off"
+        android:textOn="@string/on" />
+
+    <CheckBox
+        android:id="@+id/checkbox_milk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignLeft="@+id/temp"
+        android:layout_marginLeft="6dp"
+        android:layout_below="@+id/temp"
+        android:paddingTop="12dp"
+
+
+        android:text="@string/milk" />
+
+    <CheckBox
+        android:id="@+id/checkbox_sugar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignLeft="@+id/checkbox_milk"
+        android:layout_below="@+id/checkbox_milk"
+        android:paddingTop="12dp"
+
+        android:text="@string/sugar" />
+
+    <CheckBox
+        android:id="@+id/checkbox_lemon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignLeft="@+id/checkbox_sugar"
+        android:layout_below="@+id/checkbox_sugar"
+        android:paddingTop="12dp"
+
+        android:text="@string/lemon" />
+
+</RelativeLayout>

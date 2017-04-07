@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MindBreaker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="check_answer">Check answer !</string>
+    <string name="take_hint">Take hint</string>
+    <string name="new_word">New Word</string>
+    <string name="missing_letter">Letter</string>
+    <string name="launch_polyglot">Polyglot</string>
+    <string name="launch_math">Math</string>
+</resources>

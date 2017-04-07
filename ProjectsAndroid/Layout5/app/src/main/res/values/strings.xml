@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layout5</string>
+    <string name="to">To</string>
+    <string name="send">Send</string>
+    <string name="enter_adress">Enter your email</string>
+    <string name="message">Message</string>
+    <string name="android_logo">Android 4.3.3</string>
+</resources>
